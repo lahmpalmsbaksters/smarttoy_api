@@ -1,0 +1,14 @@
+# FastAPI and Uvicorn for web development
+fastapi==0.109.2
+uvicorn==0.27.0.post1
+
+# Pydantic for data validation
+pydantic==2.6.1
+
+# Testing tools
+pytest==8.0.0
+pytest-cov==4.1.0
+requests==2.31.0
+
+# Additional dependencies
+python-dotenv==1.0.0  # For handling environment variables
